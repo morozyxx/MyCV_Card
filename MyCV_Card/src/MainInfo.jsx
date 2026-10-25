@@ -53,6 +53,10 @@ function Main() {
                             <td>Regular</td>
                         </tr>
                         <tr>
+                            <td>React</td>
+                            <td>Regular</td>
+                        </tr>
+                        <tr>
                             <td>AI-assisted frontend development</td>
                             <td>Practical experience</td>
                         </tr>

@@ -52,6 +52,10 @@ function Main() {
                             <td>CI/CD</td>
                             <td>Regular</td>
                         </tr>
+                        <tr>
+                            <td>AI-assisted frontend development</td>
+                            <td>Practical experience</td>
+                        </tr>
                     </tbody>
                 </table>
                 <table>

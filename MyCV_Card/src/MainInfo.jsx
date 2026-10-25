@@ -119,6 +119,7 @@ function Main() {
                 <b id="proj-lbl">Projects:</b><br/>
                 <a href="https://anonwork-beta.vercel.app">anonwork</a><br/>
                 <a href="https://morozyyxx-courses.vercel.app">morozyyxx-courses</a>
+                <a href="https://uya-highlights.vercel.app">uya-highlights</a>
             </div>
             <div id="github-div">
                 <b id="contact-lbl">Contacts:</b><br/>

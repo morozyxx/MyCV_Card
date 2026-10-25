@@ -87,9 +87,7 @@ function Main() {
                     <b>EDUCATION: </b> Current fourth-year student of "Technikum Energetyczne w Poznaniu"
                 </div>
             </div>
-            <div id="kind-of-offers-lbl">
-                <b>Kind of offers:</b>
-            </div>
+            <div style={{margin: 15}}></div>
             <div id="chat">
                 <div id="wcoo">
                     <h2>What kind of offer are U expecting?</h2>
@@ -106,8 +104,8 @@ function Main() {
                 </div>
             </div>
             <div id="exp">
-                <b>EXPERIENCE:</b> 
-                Exclusively commercial 
+                <b>EXPERIENCE: </b>
+                Exclusively commercial
                 projects involving work with the 
                 Telegram API, backend development 
                 using FastAPI and SQLAlchemy (asynchronously), 
@@ -123,7 +121,7 @@ function Main() {
             </div>
             <div id="github-div">
                 <b id="contact-lbl">Contacts:</b><br/>
-                <b>GitHub: </b><a href="https://github.com/morozyyxx-first">github-link</a>. <br/>
+                <b>GitHub: </b><a href="https://github.com/morozyyxx-first">morozyyxx</a><br/>
                 <b>Phone number: </b>{import.meta.env.VITE_PHONE_NUM}<br/>
                 <b>Email: </b> {import.meta.env.VITE_EMAIL}
             </div>

@@ -7,7 +7,7 @@ function Header() {
             <div id="head-info">
                 <h2>Viktor Moroz</h2>
                 <b>Profile:</b> Backend Python Developer / API Developer<br/>
-                <b>Type of Work:</b> Remote (primary), Stationary, Hybrid
+                <b>Type of Work:</b> Remote (preferred), Hybrid
             </div>
         </header>
     );
